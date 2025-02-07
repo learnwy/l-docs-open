@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkl_docs=self.webpackChunkl_docs||[]).push([[8855],{8102:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/en-GB/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

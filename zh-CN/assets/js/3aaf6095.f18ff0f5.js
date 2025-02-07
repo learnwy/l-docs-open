@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkl_docs=self.webpackChunkl_docs||[]).push([[5786],{6326:e=>{e.exports=JSON.parse('{"authors":[{"name":"learnwy","title":"Documentation Maintainer","url":"https://github.com/learnwy","page":{"permalink":"/zh-CN/blog/authors/learnwy"},"socials":{"github":"https://github.com/learnwy"},"key":"learnwy","count":1}]}')}}]);

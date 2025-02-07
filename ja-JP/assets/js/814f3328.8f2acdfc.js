@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkl_docs=self.webpackChunkl_docs||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Setting Up My Documentation Site with Docusaurus","permalink":"/ja-JP/blog/docusaurus-setup","unlisted":false,"date":"2024-01-02T00:00:00.000Z"}]}')}}]);
